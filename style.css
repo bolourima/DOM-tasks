@@ -1,0 +1,9 @@
+.box {
+  margin-top: 20px;
+  background-color: green;
+  height: 150px;
+  width: 150px;
+  margin-right: 10px;
+  color: aliceblue;
+  display: inline-block;
+}
