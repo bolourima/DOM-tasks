@@ -1,9 +1,16 @@
 .box {
   margin-top: 20px;
-  background-color: green;
-  height: 150px;
+  background-color: rgb(224, 224, 224);
+  height: 50px;
   width: 150px;
   margin-right: 10px;
-  color: aliceblue;
+  border: 1px rgb(70, 70, 70) solid;
+  border-radius: 10px;
+  color: black;
   display: inline-block;
+}
+#check {
+  margin-left: 177px;
+  margin-top: 20px;
+  margin-right: 10px;
 }
